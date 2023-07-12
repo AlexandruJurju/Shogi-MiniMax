@@ -1,0 +1,5 @@
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.exe
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.dll
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.deps.json
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.runtimeconfig.json
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.pdb

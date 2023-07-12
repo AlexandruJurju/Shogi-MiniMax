@@ -1,0 +1,72 @@
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+X:\School test projects\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+X:\School test projects\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+X:\School test projects\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+X:\School test projects\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+X:\School test projects\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+X:\School test projects\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.gameForm.resources
+X:\School Repos\shogitest\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+X:\School Repos\shogitest\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+X:\School Repos\shogitest\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+X:\School Repos\shogitest\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+X:\School Repos\shogitest\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.gameForm.resources
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+X:\School Repos\shogitest\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.gameForm.resources
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+M:\PC2\Facultate\ANUL 3 - sem 2\AI\Proiect\shogitest.git\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.gameForm.resources
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+X:\Downloads\shogitest-capturedInModel\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
